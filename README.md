@@ -1,4 +1,4 @@
-# AI Boot Camp Assignment: Pandas Challengue
+# AI Boot Camp Assignment: Pandas Challenge
 
 ## Overview
 
